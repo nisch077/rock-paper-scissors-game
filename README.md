@@ -6,7 +6,7 @@ A simple and interactive Rock, Paper, Scissors game implemented in Python with a
 
 1.  **Prerequisites:** Make sure you have Python installed on your system. You can download it from [https://www.python.org/downloads/](https://www.python.org/downloads/).
 2.  **Download the script:** Download the `rps_gui.py` file from this repository to your local machine.
-3.  **Run the script:** Open your terminal or command prompt, navigate to the directory where you saved the `rps_gui.py` file, and run the command:
+3.  **Run the script:** Open your terminal or command prompt, navigate to the directory where you saved the `rpsgameGUI.py` file, and run the command:
     ```bash
     python rpsgameGUI.py
     ```
